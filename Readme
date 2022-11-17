@@ -1,7 +1,7 @@
 ## MESARATI PROJECT
 
 - Data was extracted from wikepedia (link) using google sheets and then downloaded intto the root
-    of the project learnt from this [tutorial](https://www.youtube.com/watch?v=RJXPlVCcYRE)
+    of the project learnt from this (tutorial)[https://www.youtube.com/watch?v=RJXPlVCcYRE]
 
 - Data is cleaned to remove metrics from values, (using split to columns from the Data tab on Google sheets) displacement is in cubic metres and power is in brake horse power (bhp), then format them as numbers.
 
